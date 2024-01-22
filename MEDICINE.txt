@@ -1,0 +1,153 @@
+(76,'heart specialist in KMCH','Dr.Lawrence Jesuraj')
+(77,'working hour of Dr.Lawrence Jesuraj','8.30-10.30am')
+(3,'heart specialist in KMCH','Dr.Mohan M')
+(4,'working hour of Dr.Mohan M','4.00-7.00pm')
+(5,'heart specialist in KMCH','Dr.Saravanan D.M.T')
+(6,'working hour of Dr.Saravanan D.M.T','10.00pm-12.30am')
+(7,'Cardio Thoracic Surgery in KMCH','Dr.Balasundaram.S')
+(8,'working hour of Dr.Balasundaram.S','9.00am-12.30pm')
+(9,'Cardio Thoracic Surgery in KMCH','Dr.Devender singh')
+(10,'working hour of Dr.Devender singh','4.30-6.30pm')
+(11,'Cardio Thoracic Surgery in KMCH','Dr.Prashant vijayanath')
+(12,'working hour of Dr.Prashant vijayanath','9.00pm-12.00am')
+(13,'Nephrology specilaist in KMCH','Dr.Kandasamy.S')
+(14,'working hour of Dr.Kandasamy.S','9.00am-12.30pm')
+(15,'Nephrology specialist in KMCH','Dr.Vivek Pathak')
+(16,'working hour of Dr.Vivek Pathak','5.00-8.00pm')
+(17,'Nephrology secialist in KMCH','Dr.Vikraman G')
+(18,'working hour of Dr.Vivek Pathak','9.30pm-12.00am')
+(19,'Neurology secialist in KMCH','Dr.Baskar P')
+(20,'working hour of Dr.Baskar P','9.30am-12.30pm')
+(21,'Neurology secialist in KMCH','Dr.Senthilkumar E')
+(22,'working hour of Dr.Senthilkumar E','4.00-7.30pm')
+(23,'Neurology secialist in KMCH','Dr.Prakash B')
+(24,'working hour of Dr.Prakash B','10.00pm-12.30am')
+(25,'Psychiatry secialist in KMCH','Dr.Srinivasan.D')
+(26,'working hour of Dr.Srinivasan.D','5.00-8.00pm')
+(27,'Pulmonogy secialist in KMCH','Dr.Santha Kumar')
+(28,'working hour of Dr.Santha Kumar','11.00am-2.00pm')
+(29,'Pulmonogy secialist in KMCH','Dr.Venugopal')
+(30,'working hour of Dr.Venugopal','6.00am-9.00pm')
+(31,'Urology secialist in KMCH','Dr.Barani Kumar.P.B')
+(32,'working hour of Dr.Barani Kumar.P.B','8.00am-12.30pm')
+(33,'Urology secialist in KMCH','Dr.Devdas Madhavan')
+(34,'working hour of Dr.Devdas Madhavan','4.00-6.00pm')
+(35,'Urology secialist in KMCH','Dr.Anandan')
+(36,'working hour of Dr.Anandan','9.00pm-12.00am')
+(37,'Oncology secialist in KMCH','Dr.Bharath Rangarajan')
+(38,'working hour of Dr.Bharath Rangarajan','9.00am-2.00pm')
+(39,'Oncology secialist in KMCH','Dr.Vignesh Kanda Kumar')
+(40,'working hour of Dr.Bharath Rangarajan','6.00-10.00pm')
+---------------------------------------------------------------
+(76,'Cardialogy secialist in Sri Ramakrishna Hospital','Dr.Balaji.S')
+(77,'working hour of Dr.Balaji.S','9.00am-1.00pm')
+(78,'Cardialogy secialist in Sri Ramakrishna Hospital','Dr.Nandha Kumar.T.R')
+(79,'working hour of Dr.Balaji.S','4.00-6.00pm')
+(80,'Cardialogy secialist in Sri Ramakrishna Hospital','Dr.Madheswaran')
+(81,'working hour of Dr.Balaji.S','8.00-11.00pm')
+(82,'Cardio Thoracic Surgery in Sri Ramakrishna Hospital','Dr.Om Prakash.G')
+(83,'working hour of Dr.Om Prakash.G','9.00-11.00am')
+(84,'Cardio Thoracic Surgery in Sri Ramakrishna Hospital','Dr.Thiagaraja Murthy.S')
+(85,'working hour of Dr.Om Prakash.G','4.00-6.00am')
+(86,'Cardio Thoracic Surgery in Sri Ramakrishna Hospital','Dr.Vijay Sadasivam')
+(87,'working hour of Dr.Om Prakash.G','8.00-9.00pm')
+(88,'Nephrology in Sri Ramakrishna Hospital','Dr.Chezhiyan.N')
+(89,'working hour of Dr.Chezhiyan.N','11.30am-12.00pm')
+(90,'Nephrology in Sri Ramakrishna Hospital','Dr.Madhusankar.G')
+(91,'working hour of Dr.Madhusankar.G','6.00-8.00pm')
+(92,'Neurology secialist in Sri Ramakrishna Hospital','Dr.Ramadoss.K')
+(93,'working hour of Dr.Ramadoss.K','10.00am-12.30pm')
+(94,'Neurology secialist in Sri Ramakrishna Hospital','Dr.Asokan')
+(95,'working hour of Dr.Asokan','6.00-8.00pm')
+(96,'Pulmonology specialist in Sri Ramakrishna Hospital','Dr.Loganathan')
+(97,'working hour of Dr.Asokan','9.00-10.00pm')
+(98,'Pulmonology specialist in Sri Ramakrishna Hospital','Dr.Arun Gangadhar')
+(99,'working hour of Dr.Asokan','6.00-10.00pm')
+(100,'Urology secialist in Sri Ramakrishna Hospital','Dr.Ganesh Prasath')
+(101,'working hour of Dr.Ganesh Prasath','2.00-4.00pm')
+(102,'Urology secialist in Sri Ramakrishna Hospital','Dr.Palaniswamy.R')
+(103,'working hour of Dr.Palaniswamy.R','10.00am-12.00pm')
+(104,'Oncology specialist in Sri Ramakrishna Hospital','Dr.Vignesh Kanda Kumar')
+(105,'working hour of Dr.Vignesh Kanda Kumar','12.00-8.00pm')
+------------------------------------------------------------------------------------
+(106,'Cardialogy specialist in KG Hospital','Dr.Saravanan E')
+(107,'working hour of Dr.Saravanan E','8.00am-8.00pm')
+(108,'Cardialogy specialist in KG Hospital','Dr.Rao.Y.Y')
+(109,'working hour of Dr.Rao.Y.Y','8.00am-8.00pm')
+(110,'Cardialogy specialist in KG Hospital','Dr.Ranjith.R')
+(111,'working hour of Dr.Ranjith.R','8.00am-8.00pm')
+(112,'Cardio Thoracic Surgery in KG Hospital','Dr.Arun kumar.U')
+(113,'working hour of Dr.Arun kumar.U','8.00am-8.00pm')
+(114,'Cardio Thoracic Surgery in KG Hospital','Dr.Shegu.G')
+(115,'working hour of Dr.Shegu.G','8.00am-8.00pm')
+(116,'Cardio Thoracic Surgery in KG Hospital','Dr.Krishnan.E')
+(117,'working hour of Dr.Krishnan.E','8.00am-8.00pm')
+(118,'Nephrology specialist in KG Hospital','Dr.Nirmala')
+(119,'working hour of Dr.Nirmala','8.00am-8.00pm')
+(120,'Nephrology specialist in KG Hospital','Dr.Ramaswami')
+(121,'working hour of Dr.Ramaswami','8.00am-8.00pm')
+(122,'Nephrology specialist in KG Hospital','Dr.Chakaravarthy')
+(123,'working hour of Dr.Chakaravarthy','8.00am-8.00pm')
+(124,'Neurology specialist in KG Hospital','Dr.Pradeep M')
+(125,'working hour of Dr.Pradeep M','8.00am-8.00pm')
+(126,'Neurology specialist in KG Hospital','Dr.Saleem Akthar')
+(127,'working hour of Dr.Saleem Akthar','8.00am-8.00pm')
+(128,'Neurology specialist in KG Hospital','Dr.Ramakrishna TCR')
+(129,'working hour of Dr.Ramakrishna TCR','8.00am-8.00pm')
+(130,'Psychiatry specialist in KG Hospital','Dr.Ponni Muralindharan .V')
+(131,'working hour of Dr.Ponni Muralindharan.V','8.00am-8.00pm')
+(132,'Pulmonology specialist in KG Hospital','Dr.Jhancy Sethunath')
+(133,'working hour of Dr.Jhancy Sethunath','8.00am-8.00pm')
+(134,'Pulmonology specialist in KG Hospital','Dr.Maheswaran K')
+(135,'working hour of Dr.Maheswaran K','8.00am-8.00pm')
+(136,'Urology secialist in KG Hospital','Dr.Balakrishnan N M')
+(137,'working hour of Dr.Balakrishnan N M','8.00am-8.00pm')
+(138,'Oncology secialist in KG Hospital','Dr.Balamurugan G')
+(139,'working hour of Dr.Balamurugan G','8.00am-8.00pm')
+
+
+
+
+
+
+
+
+
+
+function SendSMSfromGoogleSheet() {
+  var sh = SpreadsheetApp.getActiveSpreadSheet()
+  var settings = sh.getsheetByName("Settings")
+  var sendSMS = sh.getSheetByName("SendNumber")
+  var authkey = settings.getRange(1,2).getvalue()
+  var totalnumbers = sendSMS.getLastRow()
+
+  for(var i=2;i<=totalnumbers;i++){
+    var Number = sendSMS.getRange(i,2).getvalue()
+    var message = sendSMS.getRange(i,3).getvalue()
+
+    const url = "https://rest.clicksend.com/v3/sms/send"
+    const params = {
+      method: "post",
+      headers: {Authorization: authkey},
+      contentType: "application/json",
+      payload: JSON.stringify({
+        "message":[
+          {
+            "body":message,
+            "source":"googleappscirpt",
+            "to":number
+          }
+        ]
+      })
+    };
+
+    const res = UrlFetchApp.fetch(url,params);
+    if(res.getResponseCode ==200){
+      sendSMS.getRange(i, 4).setvalue("sucess")
+    }else{
+      sendSMS.getRange(i, 4).setvalue("failed")
+    }
+  }
+
+
+}
